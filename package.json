@@ -1,6 +1,7 @@
 {
   "name": "emoji-search-web",
   "version": "0.1.0",
+  "homepage": "https://Keertijanm.github.io/emoji-search-web",
   "license": "MIT",
   "devDependencies": {
     "gh-pages": "^2.0.1",
